@@ -1,4 +1,4 @@
-# Sabor a soledad
+# Sabor a soledad, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Sabor a soledad |
+| **Title** | Sabor a soledad, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabor-a-soledad/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Sabor a soledad](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-soledad/) |
+| **Get License** | [Obtain a Music License for Sabor a soledad, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabor-a-soledad/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, dime si esta noche tú te vas conmigo
+> Que la disco está a tope pero yo te sigo
+> Tú tienes ese veneno que a mí me domina
+> Un flow de Barcelona que me contamina
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a5497bc072c741e0b01804727e88c0654d633f74877479ed2a99c5ddbea21b6c` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
